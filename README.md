@@ -2,7 +2,7 @@
 * PM me at xda - FireLord 
 * Email me - amankumarmicro@gmail.com
 
-# Device configuration for Sasmung Galaxy Note 3 Neo SM-N750 (hl3g)
+# Device configuration for Sasmung Galaxy Star Pro|Plus (logan2g)
 
 ## Spec Sheet
 
