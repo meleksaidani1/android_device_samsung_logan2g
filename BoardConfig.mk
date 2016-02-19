@@ -53,7 +53,7 @@ BOARD_VENDOR_USE_AKMD := true
 # Recovery
 TARGET_RECOVERY_PIXEL_FORMAT := "RGBX_8888"
 #TARGET_RECOVERY_INITRC := device/samsung/logan2g/recovery/recovery.rc
-TARGET_RECOVERY_FSTAB := device/samsung/logan2g/twrp.fstab
+TARGET_RECOVERY_FSTAB := device/samsung/logan2g/recovery/twrp.fstab
 BOARD_CUSTOM_RECOVERY_KEYMAPPING := ../../device/samsung/logan2g/recovery/recovery_keys.c
 BOARD_USE_CUSTOM_RECOVERY_FONT := \"roboto_15x24.h\"
 BOARD_HAS_NO_SELECT_BUTTON := true
