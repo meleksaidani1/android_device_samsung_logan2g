@@ -17,3 +17,7 @@
 PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/full_logan2g.mk
 
+
+ COMMON_LUNCH_CHOICES := \
+     cm_logan2g-userdebug \
+     cm_logan2g-eng
